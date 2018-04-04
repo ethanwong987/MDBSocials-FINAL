@@ -1,11 +1,19 @@
 
 Updated and fully functional version of an app that keeps track of club activities and events.
+Features include:
+- Full signup/login functionality using Firebase.
+- Create new events!
+- Mark yourself as interested in others' events!
+- Details page displays event location, date, time, and description!
+- Open up your event's location in Apple Maps!
+- Gives an estimate of a Lyft ride to your destination.
 
-![simulator screen shot - iphone 7 - 2018-04-03 at 18 48 05](https://user-images.githubusercontent.com/35559923/38284352-a282cec6-376f-11e8-9170-dea251b4215f.png)
-![simulator screen shot - iphone 7 - 2018-04-03 at 18 48 07](https://user-images.githubusercontent.com/35559923/38284353-a39f217e-376f-11e8-901e-65622c1d405f.png)
-![simulator screen shot - iphone 8 plus - 2018-04-03 at 18 46 09](https://user-images.githubusercontent.com/35559923/38284357-a6c45310-376f-11e8-8394-ebc8882b2646.png)
-![simulator screen shot - iphone 8 plus - 2018-04-03 at 18 46 15](https://user-images.githubusercontent.com/35559923/38284362-aa661f3a-376f-11e8-979f-211f56e46009.png)
-![simulator screen shot - iphone 8 plus - 2018-04-03 at 18 46 26](https://user-images.githubusercontent.com/35559923/38284363-abd682ec-376f-11e8-88a3-6e8c97e0bb25.png)
-![simulator screen shot - iphone 8 plus - 2018-04-03 at 18 46 29](https://user-images.githubusercontent.com/35559923/38284369-ad4dc91e-376f-11e8-8580-fdddd5871019.png)
-![simulator screen shot - iphone 8 plus - 2018-04-03 at 18 46 33](https://user-images.githubusercontent.com/35559923/38284373-ae6be7a4-376f-11e8-808f-948d50fcd4cc.png)
+![simulator screen shot - iphone 6 - 2018-04-03 at 18 51 43](https://user-images.githubusercontent.com/35559923/38284537-aacc4494-3770-11e8-9957-93f86022d964.png)
+![simulator screen shot - iphone 6 - 2018-04-03 at 18 51 45](https://user-images.githubusercontent.com/35559923/38284538-abe11288-3770-11e8-9c2a-15e62bc218e2.png)
+![simulator screen shot - iphone 6 - 2018-04-03 at 18 54 46](https://user-images.githubusercontent.com/35559923/38284541-ad1f43ae-3770-11e8-80f4-bf833b5ad63f.png)
+![simulator screen shot - iphone 6 - 2018-04-03 at 18 54 49](https://user-images.githubusercontent.com/35559923/38284542-ae16d9ca-3770-11e8-9731-f7c59d306442.png)
+![simulator screen shot - iphone 6 - 2018-04-03 at 18 54 53](https://user-images.githubusercontent.com/35559923/38284543-af00bb62-3770-11e8-87b6-c5a93dd5ad26.png)
+![simulator screen shot - iphone 6 - 2018-04-03 at 18 54 57](https://user-images.githubusercontent.com/35559923/38284544-b02a64a2-3770-11e8-915c-89ec8e76235d.png)
+![simulator screen shot - iphone 6 - 2018-04-03 at 18 55 00](https://user-images.githubusercontent.com/35559923/38284546-b0f116c4-3770-11e8-888a-edf13a33c63f.png)
+
 
